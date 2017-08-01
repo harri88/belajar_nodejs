@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/harri88/belajar_nodejs#readme",
   "dependencies": {
-    "mongodb": "^2.2.30"
+    "mongodb": "^2.2.30",
+    "pg": "^6.1.0"
   }
 }
