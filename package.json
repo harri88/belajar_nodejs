@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/harri88/belajar_nodejs/issues"
   },
-  "homepage": "https://github.com/harri88/belajar_nodejs#readme"
+  "homepage": "https://github.com/harri88/belajar_nodejs#readme",
+  "dependencies": {
+    "mongodb": "^2.2.30"
+  }
 }
