@@ -1,0 +1,19 @@
+{
+  "name": "belajar_nodejs",
+  "version": "1.0.0",
+  "description": "catatan belajar nodejs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harri88/belajar_nodejs.git"
+  },
+  "author": "Harri Muhammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harri88/belajar_nodejs/issues"
+  },
+  "homepage": "https://github.com/harri88/belajar_nodejs#readme"
+}
